@@ -1,6 +1,6 @@
 # Dispatching an Initial Action for Setup
 
-## Objectives
+## Objective
 
 In this lesson, you will learn the following:
 
